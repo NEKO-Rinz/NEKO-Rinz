@@ -5,6 +5,5 @@ NEKO~Rin Café !  A cat themed maid café based off of maid culture in Akibahra 
 </p> 
 
 
-<p align="center">
+
 ![image_alt](https://64.media.tumblr.com/47f291295f64e165addfab1bc7471bb9/tumblr_n3ft6zfUEY1trz1i4o1_400.gifv)
-</p> 
